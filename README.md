@@ -1,6 +1,4 @@
-Elbette, daha ayrıntılı bir README metni aşağıda yer almaktadır:
 
----
 
 # Mert Can Günendi's Deep Learning Image Classification Project
 
